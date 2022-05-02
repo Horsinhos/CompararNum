@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Comparar_Num</string>
+    <string name="Compare">Compare os numeros</string>
+    <string name="botao">Comparar</string>
+</resources>
